@@ -8,3 +8,5 @@ https://docs.google.com/document/d/19n_BS8CnrggXJ3jTBqXuLosbPfJRUA2IJXWuQKuKx2Y/
 sectiunea aplicatie
 
 comenzile pentru creare/ populare tabele de gasesc in fisierul word din arhiva
+
+nu contine partea de client (fiindca nu a fost ceruta pt proiectul final)
